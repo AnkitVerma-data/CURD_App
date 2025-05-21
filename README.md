@@ -53,20 +53,3 @@ A modern web application for managing customer information using CRUD operations
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Support
-
-If you find this project useful, please consider giving it a ⭐️ on GitHub!
-
-## 📝 Acknowledgments
-
-- Thanks to the FastAPI community for their amazing framework
-- Special thanks to the contributors who have helped improve this project
-
-## 📱 Contact
-
-For any questions or suggestions, please feel free to contact me at [your-email@example.com](mailto:your-email@example.com)
